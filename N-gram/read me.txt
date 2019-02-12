@@ -1,0 +1,6 @@
+Language: Python 3.6.5
+
+How to run my code:
+1. python file(homework.py) and input file(corpus.txt) should put in the same folder 
+2. Run the command line: cd (path of the folder)
+3. Run the command line: python homework.py <corpus.txt> <sentence1> <sentence2>
