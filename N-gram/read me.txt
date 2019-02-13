@@ -1,6 +1,8 @@
 Language: Python 3.6.5
 
 How to run my code:
-1. python file(homework.py) and input file(corpus.txt) should put in the same folder 
+1. python file(n-gram.py) and input file(corpus.txt) should put in the same folder 
 2. Run the command line: cd (path of the folder)
-3. Run the command line: python homework.py <corpus.txt> <sentence1> <sentence2>
+3. Run the command line: python n-gram.py <corpus.txt> <sentence1> <sentence2>
+   (For example: python n-gram.py corpus.txt "The chairman made the decision to bring in a new financial planner ." "The profit of the company was going down last year said by the chief executive .")
+4. Wait for a while, the 8 tables will directly be saved in the folder and the 4 probabilities will print in the terminal. 
